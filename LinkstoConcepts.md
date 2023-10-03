@@ -18,3 +18,13 @@ https://www.hopsworks.ai/dictionary/retrieval-augmented-generation-llm
   
 https://www.youtube.com/watch?v=lsMQRaeKNDk 
 
+### Deployment can be done using 
+
+- FLASK (Simple and quick deployment)
+- DJANGO(for large scale application)
+
+These frameworks are used to create
+1. Web based App
+2. REST APIs
+  
+
