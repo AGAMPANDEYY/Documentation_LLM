@@ -11,8 +11,10 @@ https://huggingface.co/blog/getting-started-with-embeddings
 https://www.hopsworks.ai/dictionary/retrieval-augmented-generation-llm
 
 ## Deployment Concepts
-
 ### REST API 
-
-[Link]https://www.youtube.com/watch?v=lsMQRaeKNDk 
+- API for communication of web application with cloud based server
+- Cloud server will have LlAMA model deployed.
+- REQUEST & RESPONSE using REST API
+  
+https://www.youtube.com/watch?v=lsMQRaeKNDk 
 
