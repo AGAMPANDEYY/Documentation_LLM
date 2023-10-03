@@ -12,7 +12,7 @@ https://www.hopsworks.ai/dictionary/retrieval-augmented-generation-llm
 
 ### Dataset Generation
 
-![image](https://github.com/AGAMPANDEYY/Documentation_LLM/assets/94832116/d8311065-9b8f-4f53-8c37-1e720cba9457)
+<img src="https://github.com/AGAMPANDEYY/Documentation_LLM/assets/94832116/d8311065-9b8f-4f53-8c37-1e720cba9457" width=300 >
 
   **JSONL Dataset**
   
