@@ -26,5 +26,14 @@ https://www.youtube.com/watch?v=lsMQRaeKNDk
 These frameworks are used to create
 1. Web based App
 2. REST APIs
+
+### Cloud Storage
+
+- First decide what type of cloud service our product needs?
+- IaaS, PaaS or SaaS?
+- Then choose AWS/AZURE/HEROKU or similar cloud service
+<img src="https://github.com/AGAMPANDEYY/Documentation_LLM/assets/94832116/71be6749-5cf9-4d50-87b2-4df33a83bc93" width=300>
+
+
   
 
