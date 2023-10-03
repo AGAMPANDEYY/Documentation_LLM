@@ -29,6 +29,8 @@ These frameworks are used to create
 
 1. Web based App
 2. REST APIs
+   
+*StreamLit and ChainLit only creates web app for DS projects not REST APIs*
 
 ### Cloud Storage
 
