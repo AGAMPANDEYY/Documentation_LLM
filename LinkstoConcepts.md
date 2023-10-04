@@ -10,6 +10,12 @@ https://huggingface.co/blog/getting-started-with-embeddings
 
 https://www.hopsworks.ai/dictionary/retrieval-augmented-generation-llm
 
+### Quantization using bitsandbytes
+
+ways to make big Language models easier to run on less GPUs
+
+https://www.youtube.com/watch?v=lI3bZzsQcjs
+
 ## Deployment Concepts
 ### REST API 
 - API for communication of web application with cloud based server
