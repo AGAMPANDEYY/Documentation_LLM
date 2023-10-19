@@ -10,7 +10,7 @@ https://github.com/NisaarAgharia/Indian-LawyerGPT/blob/main/Inference_Code/Infer
 
 ## 3-Method for deployment of LLM code on AWS cloud service (SaaS Service) on Amazon Sagemaker Notebook:
 
-Here in the documentation, Amazon Sagemaker (AWS) is used to deploy our LLM Model and then Gradio is used for UI of chatbot (will me done by frontend developers)
+Here in the documentation, Amazon Sagemaker (AWS) is used to deploy our LLM Model and then Gradio is used for UI of chatbot (our's will Be done by frontend developers)
 In the code, we need to change the model id in the config ={......}
 
 https://github.com/NisaarAgharia/Indian-LawyerGPT/blob/main/Inference_Code/sagemaker-notebook.ipynb
