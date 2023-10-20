@@ -36,6 +36,7 @@ legal judgments from the Supreme Court of India,crawled from the website of Thom
 -(v)Intellectual Property Rights–7 documents
 
 Rheotorical Role Labels will act like-
+
 <img width="413" alt="image" src="https://github.com/AGAMPANDEYY/Documentation_LLM/assets/94832116/c923fa3a-f0a3-4a3b-bed8-f057fe518e30">
 
 
