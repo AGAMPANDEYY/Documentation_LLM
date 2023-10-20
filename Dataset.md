@@ -14,9 +14,9 @@
 
 # DATASET & LINKS
 
-https://zenodo.org/records/6053791 
+### Contains JSONL files for Statute identification
 
--Contains JSONL files for Statute identification
+https://zenodo.org/records/6053791 
 
 format-
 
