@@ -39,7 +39,16 @@ Rheotorical Role Labels will act like-
 
 <img width="413" alt="image" src="https://github.com/AGAMPANDEYY/Documentation_LLM/assets/94832116/c923fa3a-f0a3-4a3b-bed8-f057fe518e30">
 
+### Train  Data
+https://storage.googleapis.com/indianlegalbert/OPEN_SOURCED_FILES/Rhetorical_Role_Benchmark/Data/train.json
+
+### Test Data
+
+https://storage.googleapis.com/indianlegalbert/OPEN_SOURCED_FILES/Rhetorical_Role_Benchmark/Data/dev.json
+
 
 - ### Court Judgment Prediction (ILDC Dataset)[Binary Text Classification]: Predicting whether the claims/petitions of a court case will be accepted/rejected
+
+  
 
 large corpus of 35k Indian Supreme Court cases annotated with original court decisions.
