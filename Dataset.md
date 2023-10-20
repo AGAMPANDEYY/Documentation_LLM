@@ -63,6 +63,12 @@ https://github.com/NisaarAgharia/Indian-LawyerGPT/blob/main/dataset/50_lawergpt_
 
 https://github.com/NisaarAgharia/Indian-LawyerGPT/blob/main/dataset/933prompts_constitution_train.jsonl
 
-### 21 Case Studies .txt files
+### 21 Case Studies  and 19 Articles .txt files
 
 https://github.com/NisaarAgharia/Indian-LawyerGPT/tree/main/dataset/21
+
+https://github.com/NisaarAgharia/Indian-LawyerGPT/tree/main/dataset/Refined%20Reports%20Article%2019
+
+### Prompts 
+
+https://github.com/NisaarAgharia/Indian-LawyerGPT/tree/main/dataset/prompts
