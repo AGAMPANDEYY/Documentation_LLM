@@ -52,3 +52,17 @@ https://storage.googleapis.com/indianlegalbert/OPEN_SOURCED_FILES/Rhetorical_Rol
   
 
 large corpus of 35k Indian Supreme Court cases annotated with original court decisions.
+
+### Q&A 150 JSONL
+
+https://github.com/NisaarAgharia/Indian-LawyerGPT/blob/main/dataset/150_lawergpt_dataset_qna_v1_train.jsonl
+
+https://github.com/NisaarAgharia/Indian-LawyerGPT/blob/main/dataset/50_lawergpt_dataset_qna_v1_train.jsonl
+
+### Constitution Q&A JSONL
+
+https://github.com/NisaarAgharia/Indian-LawyerGPT/blob/main/dataset/933prompts_constitution_train.jsonl
+
+### 21 Case Studies .txt files
+
+https://github.com/NisaarAgharia/Indian-LawyerGPT/tree/main/dataset/21
