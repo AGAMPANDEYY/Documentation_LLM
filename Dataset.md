@@ -27,7 +27,7 @@ labels [list[string] / null]: gold-standard labels (not needed for inference)
 - ### For role labelling of sentences such as identification of arguements, judgments by panels, labelling conversation (**Web Crawling se dataset**)
 
 legal judgments from the Supreme Court of India,crawled from the website of Thomson Reuters Westlaw India
-(http://www.westlawindia.com).We crawled 53,210 documents in total
+(http://www.westlawindia.com). 53,210 documents in total
 
 -i) Criminal–16 documents
 -(ii)Land and property–10 documents 
