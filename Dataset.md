@@ -10,3 +10,15 @@
 - Sythetic data generation using Claude 2 (Advanced Prompts- containes Case Citations, Bench details,Comment and Analysis of cases)
 - Chain of thoughts (unsure about this rn)
 - Datasets generated -**16k**
+
+
+# DATASET & LINKS
+
+https://zenodo.org/records/6053791 
+Contains JSONL files for 
+
+format-
+
+id [string]: id/name of the fact instance / section instance
+text [list[string]]: text in the form of list of sentences (each sentence is a string)
+labels [list[string] / null]: gold-standard labels (not needed for inference) 
