@@ -75,6 +75,6 @@ https://github.com/NisaarAgharia/Indian-LawyerGPT/tree/main/dataset/prompts
 
 ### For Legal doc Summarizer
 
-![image](https://github.com/AGAMPANDEYY/Documentation_LLM/assets/94832116/fcbf8eba-fc77-435c-9ff1-2758f5ed190d)
+<img width="555" alt="image" src="https://github.com/AGAMPANDEYY/Documentation_LLM/assets/94832116/4dce4cf4-ed0c-496c-8073-77e698eade59">
 
 https://zenodo.org/records/7152317#.Yz6mJ9JByC0
