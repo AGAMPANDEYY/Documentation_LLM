@@ -19,3 +19,7 @@ https://arxiv.org/pdf/2308.00165v1.pdf
 - ## HiPool: Modeling Long Documents Using Graph Neural Networks
 
 https://arxiv.org/pdf/2305.03319v2.pdf
+
+- ## ILDC for CJPE: Indian Legal Documents Corpus for Court Judgment Prediction and Explanation
+
+https://arxiv.org/pdf/2105.13562v2.pdf
